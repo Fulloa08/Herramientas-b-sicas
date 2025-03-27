@@ -83,7 +83,6 @@ public class PistolasImperio {
                 System.out.println(pistolas[i][j] + "\t");
             }
             System.out.println();
-
         // TODO: Implementar la lógica para listar todas las pistolas registradas.
     }
 }
